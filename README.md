@@ -55,3 +55,25 @@ I'm open to professional opportunities, collaborations, and innovative projects 
 I'm always excited to learn, share knowledge, and contribute to impactful projects.
 
 Thanks for visiting my GitHub profile! ⭐
+---
+
+💻 Technology & Professional Skills
+
+"Artificial Intelligence" (https://img.shields.io/badge/Artificial_Intelligence-Expertise-blueviolet)
+"Data Analytics" (https://img.shields.io/badge/Data_Analytics-Professional-blue)
+"Microsoft Excel" (https://img.shields.io/badge/Microsoft_Excel-Data_Analysis-green)
+"3D CAD" (https://img.shields.io/badge/3D_CAD-Design-orange)
+
+📊 GitHub Statistics
+
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=ksolo-artifacts&show_icons=true&theme=tokyonight)
+
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=ksolo-artifacts&layout=compact&theme=tokyonight)
+
+👀 Profile Visitors
+
+"Profile Views" (https://komarev.com/ghpvc/?username=ksolo-artifacts&color=blue&style=flat)
+
+---
+
+⭐ Thanks for stopping by!
